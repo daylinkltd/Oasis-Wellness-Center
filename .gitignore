@@ -1,7 +1,13 @@
+# this file is big and commonly so we dont commit this file
 node_modules
 
+# autmatically created folder by framwork to manage itself
 .next
 
+# To Sensitive data of the applciation
 .env
 
+# automatically managed by next.js
 .DS_Store
+
+package-lock.json
