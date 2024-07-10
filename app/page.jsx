@@ -1,6 +1,10 @@
+import Navbar from "./ui/website/navbar/navbar.js"
 const Homepage = () => {
   return (
-    <div>Oasis Welness Center</div>
+    <div>
+      <Navbar/>
+      <h1></h1>
+    </div>
   )
 }
 
