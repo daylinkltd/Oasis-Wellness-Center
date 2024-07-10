@@ -1,0 +1,25 @@
+.container{
+    width:100%;
+    background-color: brown;
+    padding:10px 20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.navItem {
+    margin: 10px;
+}
